@@ -80,7 +80,6 @@ selfdrive/logmessaged.py
 selfdrive/tombstoned.py
 selfdrive/pandad.py
 selfdrive/updated.py
-selfdrive/rtshield.py
 
 selfdrive/athena/__init__.py
 selfdrive/athena/athenad.py
@@ -442,7 +441,6 @@ phonelibs/android_system_core/**
 installer/updater/updater
 installer/updater/updater.cc
 installer/updater/update.json
-installer/updater/update_kernel.json
 installer/updater/Makefile
 
 scripts/update_now.sh
